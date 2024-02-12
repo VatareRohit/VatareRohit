@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VatareRohit
 - 👀 I’m interested in Full Stack Developer- Java
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
